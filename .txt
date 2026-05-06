@@ -1535,6 +1535,6 @@ getgenv().deletescript123456lol69 = function()
 	stopped = true
 end
 -- idkv1
-loadstring(game:HttpGet("https://pastefy.app/mAfj53ra/raw"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Infectious-Smile-viltrumite-smile-infection-fly-82014"))()
 -- namelss admin the best
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-nameless-admin-so-good-38584"))()
