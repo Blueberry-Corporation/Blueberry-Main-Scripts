@@ -1534,4 +1534,7 @@ getgenv().deletescript123456lol69 = function()
 	end
 	stopped = true
 end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+-- idkv1
+loadstring(game:HttpGet("https://pastefy.app/mAfj53ra/raw"))()
+-- namelss admin the best
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-nameless-admin-so-good-38584"))()
